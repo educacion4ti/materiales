@@ -12,7 +12,7 @@ links:
     url:          /
     external:     false
   - name:         Presentaciones
-    url:          /
+    url:          /presentaciones
     external:     false
   - name:         Acerca de
     url:          /about
