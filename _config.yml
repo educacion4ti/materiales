@@ -8,10 +8,13 @@ signoff:          "educacion4TI" # Your name
 share:            false # Turn on twitter and facebook share buttons
 
 links:
-  - name:         Posts
+  - name:         Publicaciones
     url:          /
     external:     false
-  - name:         About me
+  - name:         Presentaciones
+    url:          /
+    external:     false
+  - name:         Acerca de
     url:          /about
     external:     false
 # ------------ CONFIGURABLE END ------------
